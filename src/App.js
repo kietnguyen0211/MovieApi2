@@ -11,6 +11,7 @@ export default function App(){
             <Route path="/" element={<Home/>} ></Route>
             <Route path="movie/:id" element={<MovieDetail/>} ></Route>
             <Route path="movies/:type" element={<MovieList/>}></Route>
+            {/* meo */}
         </Routes>
     </div>
   )
