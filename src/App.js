@@ -5,6 +5,7 @@ import MovieDetail from "./components/movieDetail/MovieDetail"
 import MovieList from "./components/movielist/MovieList";
 export default function App(){
   // meo
+  // meo
   return(
     <div>
         <Header/>
