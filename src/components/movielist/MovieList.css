@@ -1,0 +1,8 @@
+.movie_list{
+   background: #000;
+   overflow-x: hidden;
+}
+.movie_list .list_card{
+    display: flex;
+    flex-wrap: wrap;
+}
